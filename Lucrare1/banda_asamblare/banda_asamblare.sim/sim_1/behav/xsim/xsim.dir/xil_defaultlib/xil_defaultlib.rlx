@@ -1,0 +1,11 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/yasem/Vivado/cn2/lucrare1/banda_asamblare/banda_asamblare.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/yasem/Vivado/cn2/lucrare1/banda_asamblare/banda_asamblare.srcs/sim_1/new/sim_top.v,1635102246,verilog,,,,sim_top,,,,,,,,
+C:/Users/yasem/Vivado/cn2/lucrare1/banda_asamblare/banda_asamblare.srcs/sources_1/new/impartire.v,1635185592,verilog,,C:/Users/yasem/Vivado/cn2/lucrare1/banda_asamblare/banda_asamblare.srcs/sources_1/new/inmultire.v,,impartire,,,,,,,,
+C:/Users/yasem/Vivado/cn2/lucrare1/banda_asamblare/banda_asamblare.srcs/sources_1/new/inmultire.v,1635185597,verilog,,C:/Users/yasem/Vivado/cn2/lucrare1/banda_asamblare/banda_asamblare.srcs/sources_1/new/registru.v,,inmultire,,,,,,,,
+C:/Users/yasem/Vivado/cn2/lucrare1/banda_asamblare/banda_asamblare.srcs/sources_1/new/registru.v,1635185587,verilog,,C:/Users/yasem/Vivado/cn2/lucrare1/banda_asamblare/banda_asamblare.srcs/sources_1/new/scadere.v,,registru,,,,,,,,
+C:/Users/yasem/Vivado/cn2/lucrare1/banda_asamblare/banda_asamblare.srcs/sources_1/new/scadere.v,1635185603,verilog,,C:/Users/yasem/Vivado/cn2/lucrare1/banda_asamblare/banda_asamblare.srcs/sources_1/new/top.v,,scadere,,,,,,,,
+C:/Users/yasem/Vivado/cn2/lucrare1/banda_asamblare/banda_asamblare.srcs/sources_1/new/top.v,1635102360,verilog,,C:/Users/yasem/Vivado/cn2/lucrare1/banda_asamblare/banda_asamblare.srcs/sim_1/new/sim_top.v,,top,,,,,,,,

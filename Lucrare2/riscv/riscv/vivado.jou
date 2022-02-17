@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon Jan 24 01:16:14 2022
+# Process ID: 17264
+# Current directory: C:/Users/yasem/Vivado/cn2/riscv/riscv
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent20320 C:\Users\yasem\Vivado\cn2\riscv\riscv\riscv.xpr
+# Log file: C:/Users/yasem/Vivado/cn2/riscv/riscv/vivado.log
+# Journal file: C:/Users/yasem/Vivado/cn2/riscv/riscv\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/yasem/Vivado/cn2/riscv/riscv/riscv.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source RISC_V_TB.tcl
+close_sim
